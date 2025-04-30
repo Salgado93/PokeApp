@@ -127,6 +127,6 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     paddingHorizontal: 10,
     marginBottom: 20,
-    fontSize: 16,
+    fontSize: 18,
   },
 });
